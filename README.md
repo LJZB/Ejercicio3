@@ -1,6 +1,6 @@
 # Automatización de Pruebas con Selenium y Python
 
-Este repositorio contiene la automatización de pruebas utilizando Selenium con Python para [nombre de la aplicación].
+Este repositorio contiene la automatización de pruebas utilizando Selenium con Python para prueba técnica de Virtualsoft
 
 ## Instalación
 
